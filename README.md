@@ -7,6 +7,6 @@ update on master-branch on github web site
 
 
 * Edit2
-* Edit3
+* removed edit 3 on laptop
 
 edits made on my laptop
